@@ -150,7 +150,7 @@
             <mxPoint x="204" y="1398" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="anHPJUGO0nFIbNVZQZgN-8" value="VCC5V8_PREREG" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="anHPJUGO0nFIbNVZQZgN-8" value="VCC5V8_PREREG&lt;div&gt;5V8&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="22" y="1373" width="182" height="60" as="geometry" />
         </mxCell>
       </root>
