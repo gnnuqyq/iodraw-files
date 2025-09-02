@@ -139,14 +139,11 @@
         <mxCell id="anHPJUGO0nFIbNVZQZgN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="anHPJUGO0nFIbNVZQZgN-2" target="anHPJUGO0nFIbNVZQZgN-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="anHPJUGO0nFIbNVZQZgN-2" value="VCC_35584&lt;div&gt;60V_2A&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="anHPJUGO0nFIbNVZQZgN-2" value="&lt;div&gt;VCC3V3_UC&lt;/div&gt;&lt;div&gt;3V3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="84" y="1289" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="anHPJUGO0nFIbNVZQZgN-3" value="B_VCC_5V&lt;div&gt;5V_7A&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="1289" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="anHPJUGO0nFIbNVZQZgN-4" value="40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="211" y="1277" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="anHPJUGO0nFIbNVZQZgN-5" value="160" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=18;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="303" y="1274" width="48" height="34" as="geometry" />
