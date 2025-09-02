@@ -145,11 +145,10 @@
         <mxCell id="anHPJUGO0nFIbNVZQZgN-3" value="VCC1V3_MCU" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="1289" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="anHPJUGO0nFIbNVZQZgN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="anHPJUGO0nFIbNVZQZgN-6" target="anHPJUGO0nFIbNVZQZgN-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="anHPJUGO0nFIbNVZQZgN-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="84" y="1368" width="120" height="60" as="geometry" />
+        <mxCell id="anHPJUGO0nFIbNVZQZgN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="anHPJUGO0nFIbNVZQZgN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204" y="1398" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
