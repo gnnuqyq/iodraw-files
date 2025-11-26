@@ -151,11 +151,23 @@
         <mxCell id="syGfdM83CpTGwUKM_NQD-36" value="5V" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1690" y="500" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="syGfdM83CpTGwUKM_NQD-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="syGfdM83CpTGwUKM_NQD-38" target="syGfdM83CpTGwUKM_NQD-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="syGfdM83CpTGwUKM_NQD-38" value="fb2" style="whiteSpace=wrap;html=1;fontSize=24;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1830" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="syGfdM83CpTGwUKM_NQD-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="syGfdM83CpTGwUKM_NQD-40" target="syGfdM83CpTGwUKM_NQD-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="syGfdM83CpTGwUKM_NQD-40" value="r34" style="whiteSpace=wrap;html=1;fontSize=24;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1830" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syGfdM83CpTGwUKM_NQD-42" value="VA" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2050" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="syGfdM83CpTGwUKM_NQD-44" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2050" y="500" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
