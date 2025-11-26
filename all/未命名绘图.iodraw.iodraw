@@ -228,12 +228,16 @@
         <mxCell id="syGfdM83CpTGwUKM_NQD-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="syGfdM83CpTGwUKM_NQD-61" target="syGfdM83CpTGwUKM_NQD-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2450" y="670" />
+              <mxPoint x="2450" y="620" />
+              <mxPoint x="2250" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="syGfdM83CpTGwUKM_NQD-61" value="VQ" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2410" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="syGfdM83CpTGwUKM_NQD-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="syGfdM83CpTGwUKM_NQD-63" target="syGfdM83CpTGwUKM_NQD-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="syGfdM83CpTGwUKM_NQD-63" value="VQ" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2410" y="340" width="80" height="80" as="geometry" />
